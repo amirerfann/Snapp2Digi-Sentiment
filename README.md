@@ -22,6 +22,7 @@
 ساختار فایل‌ها
 
 
+
 project/
 │
 ├── notebooks/
@@ -40,6 +41,7 @@ project/
 │   └── saved_model/                
 │
 └── README.md                       
+
 
 
 
