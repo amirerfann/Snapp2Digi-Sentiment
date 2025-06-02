@@ -21,21 +21,23 @@
 
 ساختار فایل‌ها
 
-project/
-│
-├── notebooks/
-│   ├── 01_preprocessing.ipynb     
-│   ├── 02_model_training.ipynb     
-│   ├── 03_prediction_visual.ipynb   
-│
-├── data/
-│   ├── snapp_dataset.csv            
-│   ├── digikala_dataset.csv         
-│
-├── models/
-│   └── saved_model/                 
-│
-└── README.md                        
+    project/
+    │
+    │
+    │
+    │── notebooks/
+    │   ├── 01_preprocessing.ipynb     
+    │   ├── 02_model_training.ipynb     
+    │   ├── 03_prediction_visual.ipynb   
+    │
+    ├── data/
+    │   ├── snapp_dataset.csv            
+    │   ├── digikala_dataset.csv         
+    │
+    ├── models/
+    │   └── saved_model/                 
+    │
+    └── README.md                        
 
 
 تکنولوژی‌ها و ابزارها
