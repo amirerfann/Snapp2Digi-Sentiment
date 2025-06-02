@@ -20,7 +20,24 @@
 
 
 ساختار فایل‌ها
-<pre lang="markdown"> ``` project/ │ ├── notebooks/ │ ├── 01_preprocessing.ipynb # آماده‌سازی و پاک‌سازی داده‌ها │ ├── 02_model_training.ipynb # آموزش مدل (Fine-tuning) │ ├── 03_prediction_visual.ipynb # پیش‌بینی و مصورسازی │ ├── data/ │ ├── snapp_dataset.csv # دیتاست برچسب‌خورده (نظرات اسنپ) │ ├── digikala_dataset.csv # دیتاست بدون برچسب (نظرات دیجی‌کالا) │ ├── models/ │ └── saved_model/ # مدل آموزش‌دیده │ └── README.md # توضیحات پروژه (همین فایل) ``` </pre>
+
+project/
+│
+├── notebooks/
+│   ├── 01_preprocessing.ipynb     
+│   ├── 02_model_training.ipynb     
+│   ├── 03_prediction_visual.ipynb   
+│
+├── data/
+│   ├── snapp_dataset.csv            
+│   ├── digikala_dataset.csv         
+│
+├── models/
+│   └── saved_model/                 
+│
+└── README.md                        
+
+
 تکنولوژی‌ها و ابزارها
 
     زبان برنامه‌نویسی: Python 3.x
