@@ -24,14 +24,11 @@
 
 project/
 │
-|
 ├── notebooks/
 │
 |
 ├── 01_preprocessing.ipynb      
-|   |
 │   ├── 02_model_training.ipynb     
-|   |
 │   ├── 03_prediction_visual.ipynb  
 │
 ├── data/
@@ -40,10 +37,8 @@ project/
 |
 │
 ├── models/
-|   |
 │   └── saved_model/                
 │
-|
 └── README.md                       
 
 
